@@ -1,15 +1,18 @@
 .container {  
     color: red;
     text-align: center; 
-    background-color: lightcyan; 
+    background: url(banner.jpg);
     font-family: Arial;   
 }
 .container3{
     margin: auto;
     width: 52.5%;
     border: 3px solid green;
-    padding: 10px;
+    padding: 30px;
 }
-.container3{
+body{
     background-image: url("cookieB.jpg");
-  }
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
