@@ -52,18 +52,15 @@ body{
 
   .mySlides {display:none;}
 
-
   .mySlides {
-    text-align: center;
     height: 700px;
     width: 1000px;
   }
-  .mySlides img {
-    width: 100%;
-    max-height:100%;
-    object-fit: contain;
-  }
 
   .slideshow{
-      margin: auto;
-  }
+    margin-top: 3%;
+    margin-right: 76%;
+    margin-left: 24%;
+}
+
+
