@@ -2,7 +2,8 @@
     color: red;
     text-align: center; 
     background: url(banner.jpg);
-    font-family: Arial;   
+    font-family: Arial;
+    padding: 1px;   
 }
 .container3{
     margin: auto;
@@ -17,14 +18,14 @@ body{
 }
 
 
-  .mySlides {display:none;}
+.mySlides {display:none;}
 
-  .mySlides {
+.mySlides {
     height: 700px;
     width: 1000px;
-  }
+}
 
-  .slideshow{
+.slideshow{
     margin-top: 3%;
     margin-right: 76%;
     margin-left: 24%;
@@ -131,5 +132,4 @@ body {margin:0;font-family:Arial}
     display: block;
     text-align: left;
   }
-  
 }
